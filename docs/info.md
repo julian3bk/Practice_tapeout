@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Steps through lights on each clock
 
 ## How to test
 
-Explain how to use your project
+Steps through lights on each clock
 
 ## External hardware
 
